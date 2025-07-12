@@ -13,6 +13,6 @@ It fetches subdomains, filters them, and sorts them by TLD for cleaner and more 
 ## 🚀 Usage
 
 ```bash
-go run main.go -k YOUR_SHODAN_API_KEY -d target.com
+go run ShodSplit.go -k YOUR_SHODAN_API_KEY -d target.com
 ```
 <img width="1080" height="431" alt="image" src="https://github.com/user-attachments/assets/1f26086a-1f19-4871-a467-ba4f1a49c5f3" />
