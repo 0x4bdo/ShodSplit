@@ -14,5 +14,5 @@ It fetches subdomains, filters them, and sorts them by TLD for cleaner and more 
 
 ```bash
 go run main.go -k YOUR_SHODAN_API_KEY -d target.com
-
-<img width="1080" height="431" alt="image" src="https://github.com/user-attachments/assets/25fcade8-e612-45ab-84d1-1419c4992b25" />
+```
+<img width="1080" height="431" alt="image" src="https://github.com/user-attachments/assets/1f26086a-1f19-4871-a467-ba4f1a49c5f3" />
